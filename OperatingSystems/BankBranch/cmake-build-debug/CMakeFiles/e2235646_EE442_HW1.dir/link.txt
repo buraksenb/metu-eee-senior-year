@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/e2235646_EE442_HW1.dir/main.c.o CMakeFiles/e2235646_EE442_HW1.dir/auxiliary.c.o  -o e2235646_EE442_HW1  -lm -lpthread 

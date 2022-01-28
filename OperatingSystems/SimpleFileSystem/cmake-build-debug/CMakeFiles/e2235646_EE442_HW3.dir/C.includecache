@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/dev/e2235646_EE442_HW3/FileSystem.h
+stdio.h
+-
+string.h
+-
+
+/mnt/d/dev/e2235646_EE442_HW3/main.c
+FileSystem.h
+/mnt/d/dev/e2235646_EE442_HW3/FileSystem.h
+

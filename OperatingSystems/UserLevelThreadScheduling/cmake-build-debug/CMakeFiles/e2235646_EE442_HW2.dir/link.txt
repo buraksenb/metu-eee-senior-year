@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/e2235646_EE442_HW2.dir/hw2.c.o  -o e2235646_EE442_HW2 

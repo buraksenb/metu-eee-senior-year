@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/BankBranch.dir/main.c.o CMakeFiles/BankBranch.dir/auxiliary.c.o  -o BankBranch  -lm -lpthread 

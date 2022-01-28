@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/e2235646_EE442_HW2.dir/auxiliary.c.o CMakeFiles/e2235646_EE442_HW2.dir/main.c.o  -o e2235646_EE442_HW2 

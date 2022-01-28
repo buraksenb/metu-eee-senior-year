@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/dev/e2235646_EE442_HW2/hw2.c
+stdio.h
+-
+stdlib.h
+-
+ucontext.h
+-
+signal.h
+-
+time.h
+-
+unistd.h
+-
+stdbool.h
+-
+poll.h
+-
+

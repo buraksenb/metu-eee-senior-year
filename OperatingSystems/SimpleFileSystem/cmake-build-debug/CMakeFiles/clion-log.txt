@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/dev/e2235646_EE442_HW3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/dev/e2235646_EE442_HW3/cmake-build-debug
