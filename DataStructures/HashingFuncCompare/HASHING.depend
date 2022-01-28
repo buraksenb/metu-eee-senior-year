@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1609527716 source:c:\users\burak\desktop\ee441\hw\hashing_ee441_pa3_burak_sen_2235646\hashing\main.cpp
+	<iostream>
+	"GlobalFunctions.h"
+	<fstream>
+	<string>
+
+1609582933 c:\users\burak\desktop\ee441\hw\hashing_ee441_pa3_burak_sen_2235646\hashing\globalfunctions.h
+	<iostream>
+	<list>
+	<string>
+	<algorithm>
+
+1609526072 source:c:\users\burak\desktop\ee441\hw\hashing_ee441_pa3_burak_sen_2235646\hashing\globalfunctions.cpp
+	"GlobalFunctions.h"
+
+1609526072 source:c:\users\burak\desktop\ee441\hw\ee441_pa3_burak_sen_2235646\hashing_ee441_pa3_burak_sen_2235646\hashing\globalfunctions.cpp
+	"GlobalFunctions.h"
+
+1609582933 c:\users\burak\desktop\ee441\hw\ee441_pa3_burak_sen_2235646\hashing_ee441_pa3_burak_sen_2235646\hashing\globalfunctions.h
+	<iostream>
+	<list>
+	<string>
+	<algorithm>
+

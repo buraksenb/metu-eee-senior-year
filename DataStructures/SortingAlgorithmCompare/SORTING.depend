@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1609583120 source:c:\users\burak\desktop\ee441\hw\sorting_ee441_pa3_burak_sen_2235646\sorting\allsortingalgorithms.cpp
+	"AllSortingAlgorithms.h"
+
+1609514211 c:\users\burak\desktop\ee441\hw\sorting_ee441_pa3_burak_sen_2235646\sorting\allsortingalgorithms.h
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1609583267 source:c:\users\burak\desktop\ee441\hw\sorting_ee441_pa3_burak_sen_2235646\sorting\main.cpp
+	<ctime>
+	<iostream>
+	"AllSortingAlgorithms.h"
+	<fstream>
+	<string>
+	<string.h>
+
+1609583120 source:c:\users\burak\desktop\ee441\hw\ee441_pa3_burak_sen_2235646\sorting_ee441_pa3_burak_sen_2235646\sorting\allsortingalgorithms.cpp
+	"AllSortingAlgorithms.h"
+
+1609514211 c:\users\burak\desktop\ee441\hw\ee441_pa3_burak_sen_2235646\sorting_ee441_pa3_burak_sen_2235646\sorting\allsortingalgorithms.h
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1609583786 source:c:\users\burak\desktop\ee441\hw\ee441_pa3_burak_sen_2235646\sorting_ee441_pa3_burak_sen_2235646\sorting\main.cpp
+	<ctime>
+	<iostream>
+	"AllSortingAlgorithms.h"
+	<fstream>
+	<string>
+	<string.h>
+
